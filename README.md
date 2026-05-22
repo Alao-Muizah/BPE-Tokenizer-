@@ -25,7 +25,6 @@ A Byte Pair Encoding (BPE) tokenizer built from scratch in Python, featuring:
 * Train from HuggingFace datasets
 
   * WikiText
-  * TinyStories
 * Train from custom `.txt` files
 
 ###  Interfaces
